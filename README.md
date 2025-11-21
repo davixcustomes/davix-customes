@@ -257,4 +257,4 @@ function sendToWhatsApp(){
 
 </body>
 </html>
-](https://magdaiosif2015-hue.github.io/davix-customes/)
+
