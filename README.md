@@ -113,7 +113,7 @@ button:hover {
 </head>
 <body>
 
-<header>D </header>
+<header>DAVIX CUSTOMES </header>
 
 <nav>
 <a href="#acasa">Acasă</a>
