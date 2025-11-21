@@ -148,8 +148,17 @@ Programează-te rapid, totul este simplu și gratuit!
 </div>
 <div class="card">
 <h3>🧼 Curățare Interior</h3>
-<p>Curățare profesională a tapițeriei, covorașelor și bordului, pentru mașina ta ca nouă.</p>
+<p> Curățare profesională a tapițeriei, covorașelor și bordului, pentru mașina ta ca nouă.</p>
 </div>
+<div class="card">
+<h3>⬛️ Retapitare plafon</h3>
+<p>Retapitare profesională a plafonului si stalpilor.</p>
+</div>
+<div class="card">
+<h3>🚗 Vulcanizare auto</h3>
+<p>Schimba anvelopele in unele noi.</p>
+</div>
+
 </div>
 </div>
 
@@ -162,6 +171,9 @@ Programează-te rapid, totul este simplu și gratuit!
 <option value="Vopsitorie auto">Vopsitorie auto</option>
 <option value="Polish profesional">Polish profesional</option>
 <option value="Curatare interior">Curățare interior</option>
+<option value="Retapitare plafon">Retapitare plafon</option>
+<option value="Vulcanizare auto">Vulcanizare auto</option>
+
 </select>
 
 <label>Nume</label>
@@ -212,7 +224,7 @@ document.addEventListener("DOMContentLoaded", function() {
         let startHour = 9, endHour = 18;
         if(dayOfWeek === 6){ // sâmbătă
             startHour = 10;
-            endHour = 14;
+            endHour = 16;
         }
         for(let h=startHour; h<=endHour; h++){
             for(let m of [0,30]){
@@ -257,4 +269,5 @@ function sendToWhatsApp(){
 
 </body>
 </html>
+
 
