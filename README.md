@@ -147,7 +147,7 @@ Programează-te rapid, totul este simplu și gratuit!
 <p>Lustruire profesională, corecție lac, protecție ceramică.</p>
 </div>
 <div class="card">
-<h3>🧼 Curățare Interior</h3>
+<h3>🧼 Curatare Interior</h3>
 <p> Curățare profesională a tapițeriei, covorașelor și bordului, pentru mașina ta ca nouă.</p>
 </div>
 <div class="card">
