@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <html lang="ro">
 <head>
 <meta charset="UTF-8">
@@ -113,7 +113,7 @@ button:hover {
 </head>
 <body>
 
-<header>Davix Customes </header>
+<header>D </header>
 
 <nav>
 <a href="#acasa">Acasă</a>
@@ -257,3 +257,4 @@ function sendToWhatsApp(){
 
 </body>
 </html>
+](https://magdaiosif2015-hue.github.io/davix-customes/)
